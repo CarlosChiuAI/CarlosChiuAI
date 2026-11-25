@@ -8,7 +8,7 @@ I design each system, direct AI coding agents (Claude Code) to build it, then te
 
 #### What I'm building
 
-- **Brain MCP**: my own read-only remote MCP server. It shares my Obsidian notes with Claude over OAuth 2.1, so I stop re-explaining context in every AI app. Node.js, official MCP TypeScript SDK, Docker, Traefik. *(Public repo coming soon.)*
+- **[Brain MCP](https://github.com/CarlosChiuAI/brain-mcp)**: my own read-only remote MCP server. It shares my Obsidian notes with Claude over OAuth 2.1, so I stop re-explaining context in every AI app. Node.js, official MCP TypeScript SDK, Docker, Traefik. 12 automated tests, CI on every push.
 - **Tyler**: a self-hosted AI assistant that runs on my own Linux VPS (Hermes Agent, Docker, MCP). [Case study](https://workwithcarlos.tech/work/self-hosted-ai-agent/)
 
 #### What I work with
